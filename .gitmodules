@@ -1,0 +1,3 @@
+[submodule "src/alchemyapi"]
+	path = src/alchemyapi
+	url = ../../AlchemyAPI/alchemyapi_python.git
